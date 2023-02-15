@@ -7,5 +7,5 @@ journey in the computer science field, especially interested in AI, Machine Lear
 
 - 📫 How to reach me: 
 
-- Email: orgreenstin@gmail.com
-- Linkedin: www.linkedin.com/in/matan-shvartz
+Email: orgreenstin@gmail.com
+Linkedin: www.linkedin.com/in/matan-shvartz
